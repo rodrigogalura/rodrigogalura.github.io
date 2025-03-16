@@ -1,0 +1,1 @@
+import{_ as t,a as o,b as s,d as e}from"./index-c175e2f0.js";const c={},a={class:"portfolio"},r=e("header",null,[e("h2",{class:"h2 article-title"},"Portfolio")],-1),n=e("p",{class:"text-white"},"This page is under development.",-1),_=[r,n];function i(l,d){return o(),s("article",a,_)}const f=t(c,[["render",i]]);export{f as default};
