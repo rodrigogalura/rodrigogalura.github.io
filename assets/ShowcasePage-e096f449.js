@@ -1,0 +1,1 @@
+import{_ as s,a as c,b as t,d as e}from"./index-8362e6c9.js";const a={},o={class:"blog"},r=e("header",null,[e("h2",{class:"h2 article-title"},"Showcase")],-1),_=[r];function n(l,d){return c(),t("article",o,_)}const i=s(a,[["render",n]]);export{i as default};
