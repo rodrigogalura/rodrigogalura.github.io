@@ -1,0 +1,8 @@
+[
+    {
+        "package": "rgalura/api-igniter",
+        "description": "A Laravel package to enable your API's more powerful",
+        "version": "v0.2.0-alpha",
+        "url": "https://packagist.org/packages/rgalura/api-igniter"
+    }
+]
