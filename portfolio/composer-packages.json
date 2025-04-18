@@ -1,0 +1,34 @@
+[
+    {
+        "package": "rgalura/api-igniter",
+        "description": "Api Igniter is a Laravel package that streamlines building clean, consistent, and flexible JSON APIs with minimal effort.",
+        "badges":
+        [
+            {
+                "url": "https://github.com/rodrigogalura/api-igniter/actions/workflows/pest.yml",
+                "image": "https://img.shields.io/github/actions/workflow/status/rodrigogalura/api-igniter/pest.yml?label=tests",
+                "alt": "tests"
+            },
+            {
+                "url": "https://github.com/rodrigogalura/api-igniter/blob/main/LICENSE",
+                "image": "https://img.shields.io/github/license/rodrigogalura/api-igniter",
+                "alt": "license"
+            },
+            {
+                "url": "https://packagist.org/packages/rgalura/api-igniter",
+                "image": "https://img.shields.io/packagist/v/rgalura/api-igniter",
+                "alt": "packagist version"
+            },
+            {
+                "url": "https://github.com/rodrigogalura/api-igniter",
+                "image": "https://img.shields.io/badge/GitHub-View-344047?logo=github",
+                "alt": "github repo"
+            },
+            {
+                "url": "https://rodrigogalura.github.io/api-igniter",
+                "image": "https://img.shields.io/badge/docs-View-blue?logo=readthedocs",
+                "alt": "docs"
+            }
+        ]
+    }
+]
