@@ -1,0 +1,32 @@
+[
+    {
+        "package": "rodrigogalura/tuner",
+        "description": "A Laravel package to fine-tune your APIs — let clients shape the data with powerful query modifiers.",
+        "image": "/img/portfolio/composer-packages/tuner.png",
+        "alt": "tuner image",
+        "repo_link": "https://github.com/rodrigogalura/tuner",
+        "badges":
+        [
+            {
+                "url": "https://github.com/rodrigogalura/tuner/actions/workflows/pest.yml",
+                "image": "https://img.shields.io/github/actions/workflow/status/rodrigogalura/tuner/pest.yml?label=tests",
+                "alt": "tests"
+            },
+            {
+                "url": "https://github.com/rodrigogalura/tuner/blob/main/LICENSE",
+                "image": "https://img.shields.io/github/license/rodrigogalura/tuner",
+                "alt": "license"
+            },
+            {
+                "url": "https://packagist.org/packages/rodrigogalura/tuner",
+                "image": "https://img.shields.io/packagist/v/rodrigogalura/tuner",
+                "alt": "packagist version"
+            },
+            {
+                "url": "https://github.com/rodrigogalura/tuner",
+                "image": "https://img.shields.io/badge/GitHub-View-344047?logo=github",
+                "alt": "github repo"
+            }
+        ]
+    }
+]

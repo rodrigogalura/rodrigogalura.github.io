@@ -1,0 +1,1 @@
+import{_ as t,a as o,b as s,d as e}from"./index-2af398b0.js";const c={},a={class:"resume"},r=e("header",null,[e("h2",{class:"h2 article-title"},"Page Not Found")],-1),n=e("p",{class:"text-white"},"Sorry, but the page you were trying to view does not exist.",-1),_=[r,n];function i(d,l){return o(),s("article",a,_)}const u=t(c,[["render",i]]);export{u as default};
